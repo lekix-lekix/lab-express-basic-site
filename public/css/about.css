@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+img {
+    width: 60rem;
+    margin-right: 20rem;
+}
+
+.gif {
+    width: 30rem;
+    margin-right: 20rem;
+}
+
+.text {
+    font-size: 25px;
+    width: 30rem;
+}
